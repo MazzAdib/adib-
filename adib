@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+</html>
+<html>
+<head>
+<title>NAMA PROFIL</title>
+</head>
+<body>
+<h1 align="center">BIODATA DIRI</h1>
+<table width="745" border="1" cellspacing="0" cellpadding="5" align="center">
+<td>FOTO</td>
+<td><img src="adib.jpg" width="200px"></td>
+</tr>
+<tr>
+<td>NAMA</td>
+<td>Muhamad Adib Ramadhani Rahmad</td>
+</tr>
+<tr>
+<td>TTL</td>
+<td>Tuban, 09 Oktober 2005</td>
+</tr>
+<tr>
+<td>AGAMA</td>
+<td><form action="profil.html" method="get">
+    <select name='agama'>
+      <option value='islam'>Islam</option>
+      <option value='kristen'>Kristen</option>
+      <option value='katholik'>Katholik</option>
+      <option value='hindu'>Hindu</option>
+      <option value='kristen'>Budha</option>
+    </select>
+    </form></td>
+</tr>
+<tr>
+<td>JENIS KELAMIN</td>
+<td><form action="profil.html" method="get">
+    <select name='jenis kelamin'>
+      <option value='Laki-laki'>Laki-laki</option>
+      <option value='Perempuan'>Perempuan</option>
+    </select></form></td>
+</tr>
+<tr>
+<td>PEKERJAAN</td>
+<td>Mahasiswa</td>
+</tr>
+<tr>
+<td>HOBI</td>
+<td><ol>
+    <li>silat</li>
+    <li>Healing</li>
+    <li>futsal</li>
+  </ol></td>
+</tr>
+<tr>
+<td>Motivasi</td>
+<td><ul>
+    <li>membanggakan orang Tua</li>
+    <li>bisa bermanfaat bagi orang lain</li>
+    <li>menjadi pengusaha sukses</li>
+</ul></td>
+</tr>
+<tr>
+<td>NIM</td>
+<td>23030360061</td>
+</tr>
+<tr>
+<td>Kelas</td>
+<td>MPI 2B</td>
+</tr>
+<tr>
+<td>Jurusan</td>
+<td>Manajemen Pendidikan Islam</td>
+</tr>
+<tr>
+<td>Kuliah</td>
+<td>UIN Walisongo</td>
+</tr>
+<tr>
+<td>Phone</td>
+<td>085951452690</td>
+</tr>
+<tr>
+<td>Email</td>
+<td>mazzadib53@gmail.com</td>
+</tr>
+<tr>
+<td>Deskripsi Diri</td>
+<td>sedang menikmati proses dengan bismillah</td>
+</tr>
+<tr>
+  <td>Link Upload</td>
+  <td><link rel="stylesheet" href="https://github.com/users/MazzAdib/projects/1/views/1?pane=info&statusUpdateId=16281"></td>
+</tr>
+</table>
+</body>
+</html>
